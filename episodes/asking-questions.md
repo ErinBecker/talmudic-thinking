@@ -12,7 +12,8 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- TODO
+- Recognize that the terse statements of a Torah verse or Mishnah leave many questions left unanswered. 
+- Identify what questions a particular piece of Talmud is asking.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
