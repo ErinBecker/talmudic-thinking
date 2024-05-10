@@ -1,7 +1,7 @@
 ---
 title: "Asking Questions"
-teaching: 0
-exercises: 0
+teaching: 30
+exercises: 30
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -16,6 +16,37 @@ exercises: 0
 - Identify what questions a particular piece of Talmud is asking.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+Last week, we discussed how the Talmud developed to fill a percieved gap between the Written Torah (or the five books of Moses) and the specifics of daily practice. It saw itself as a comprehensive guide to interpreting the instructions of the Written Torah, so that individuals would know how to perform each of the commandments correctly. The verses of the Torah themselves didn't have enough detail for people to know how to keep the commandments, and the Mishnah provided that detail. Later sages applied the same process to the Mishnah itself, which again doesn't have all of the details that might be needed to interpret the correct action. The additional detail that those sages added became a major component of the Gemara. 
+
+This week we will examine the process of "adding details" to a terse statement. We will start by examining a Torah verse that provides the basis for the modern Jewish practice of mezuzah, and will discuss how it has come to be interpreted and practiced today. We will then examine a Torah verse that provides the basis for reciting the Shema, and engage in an intensive round of "asking questions" about the text to try to identify where details could be missing. Lastly, we will examine a short mishnah and its accompanying gemara to identify some of the questions the sages ask about the mishnah. 
+
+::::::::::::::::::::::::::: discussion
+
+## Mezuzah
+
+First we will discuss Deuteronomy 6:9, which says: 
+
+> And you shall write [these words] upon the doorposts of your house and upon your gateways.
+
+In modern Judaism this is practiced through the use of mezuzot (singular mezuzah). How do we practice mezuzah today? 
+
+:::::::::::: spoiler
+
+Points that might arise during discussion include: 
+
+- Modern practice is to attach a mezuzah (a scroll containing the verses of the Shema) to doorposts of buildings owned by a Jewish person.
+- Custom is to tilt the mezuzah at an angle. People might know that this reflects a debate about whether it should be horizontal or vertical. 
+- Modern practice is to have a mezuzah on both external and internal doors (except bathrooms and closets). (Medieval French communities only external doors - find source? Is this more generalizable?)
+- Most mezuzah cases have a stylized shin or the letters shin-dalet-hey. 
+- Mezuzah cases can be made out of lots of different materials and are often highly ornate. 
+- People might point out that we don't literally write on the doorposts itself, but on something that we attach to the doorposts. 
+- A custom exists of touching mezuzah and kissing fingertips when passing through a door.  
+
+::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::
+
 
 :::::::::::::::::::::::::::::::::::::: challenge
 
